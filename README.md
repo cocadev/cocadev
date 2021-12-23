@@ -52,4 +52,4 @@
 
 - 🔭 I’m currently working on Smart Contract
 - 🌱 I’m currently learning Math
-- 📫 How to reach me: eugene19950901@outlook.com
+- 📫 How to reach me
