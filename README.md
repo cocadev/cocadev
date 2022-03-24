@@ -6,7 +6,8 @@
 I have been a passionate full stack blockchain engineer with 4+ years experience. I specialize in React.js, Web3.js, Ethers.js, Terra.js for dApp frontend, as well as Rust, Cosmwasm, Solidity for building smart contract on Terra.Money, Solana, Ethereum ecosystem. <br>I can also create safe governance token on top of your idea as well as suggest so good tokenomics for you, and have plenty of experience of minting NFT collections and more..
 
 ## 🚀 Achievements
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cocadev&theme=light&count_private=true&layout=compact" alt="Cocadev's most used languages" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cocadev&theme=light&count_private=true&layout=compact" alt="Cocadev's most used languages" />
+
 - ⭐ Contributed to a number of DEFI, DEX, NFT Projects, Web and Cross mobile Applications
 
 - 🎓 Bachelor’s degree, Computer Engineering 
