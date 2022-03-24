@@ -12,8 +12,8 @@ I have been a passionate full stack blockchain engineer with 4+ years experience
 
 - 🎓 Bachelor’s degree, Computer Engineering 
 
+- ❤️ ETH, BTC, EGLD(Elrond), Dapp, TRON, DEFI, NFT, SOLIDITY, Smart contracts, ICO, TOKENS
 
-<br/>
 ## 🏆 Profile Trophy
 
 <p align="center">
