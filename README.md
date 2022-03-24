@@ -13,6 +13,7 @@ I have been a passionate full stack blockchain engineer with 4+ years experience
 - 🎓 Bachelor’s degree, Computer Engineering 
 
 
+<br/>
 ## 🏆 Profile Trophy
 
 <p align="center">
