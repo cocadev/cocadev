@@ -18,8 +18,8 @@ I have been a passionate full stack blockchain engineer with 4+ years experience
 ## 🏆 Profile Trophy
 
 <p align="center">
-  <a href="https://github.com/0xMaxim">
-    <img src="https://github-profile-trophy.vercel.app/?username=3mp8r3&row=1&column=7&no-bg=true&margin-w=42"/>
+  <a href="https://github.com/cocadev">
+    <img src="https://github-profile-trophy.vercel.app/?username=cocadev&row=1&column=7&no-bg=true&margin-w=42"/>
   </a>
 </p>
 
