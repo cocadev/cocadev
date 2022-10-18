@@ -1,7 +1,7 @@
 <h2 align="center">React/Blockchain Engineer</h2>
 
 ## 🤵 About Me
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com?user=cocadev&theme=blue-green" />
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=cocadev&theme=white" />
 I have been a passionate full stack blockchain engineer with 6+ years experience. I specialize in React.js, Web3.js, Ethers.js, Terra.js for dApp frontend, as well as Rust, Cosmwasm, Solidity for building smart contract on Terra.Money, Solana, Ethereum ecosystem. <br>I can also create safe governance token on top of your idea as well as suggest so good tokenomics for you, and have plenty of experience of minting NFT collections and more..
 
 ## 🚀 Achievements
