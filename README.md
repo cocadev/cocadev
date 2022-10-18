@@ -1,5 +1,4 @@
-<h2 align="center">✨🐢  Full Stack React/Blockchain Engineer 🐢✨</h2>
-<div align="center">⚡ Quotes: <strong>Action is the foundational key to all success.</strong></div>
+<h2 align="center">React/Blockchain Engineer</h2>
 
 ## 🤵 About Me
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com?user=cocadev&theme=blue-green" />
