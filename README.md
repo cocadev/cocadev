@@ -1,4 +1,4 @@
-<h2 align="center">React/Blockchain Engineer</h2>
+<h2 align="center">Vue/React-Native/Blockchain Engineer</h2>
 
 ## 🤵 About Me
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=cocadev&theme=white" />
